@@ -10,7 +10,6 @@ import MyInfo from '../MyInfo/MyInfo';
 import { Dropdown, DropdownItem } from 'flowbite-react';
 import { IoSettings } from 'react-icons/io5';
 import { Helmet } from 'react-helmet';
-import { UploudPhoto } from '../uploudPhoto/UploudPhoto';
 
 export default function Portifile() {
   // console.log(1234);
@@ -83,7 +82,6 @@ export default function Portifile() {
 
       </div>
         </div>
-          {/* <UploudPhoto/> */}
           </>
         }
 
